@@ -1,6 +1,6 @@
 import java.applet.Applet;
 import java.awt.*;
-public class ListDemo extends Applet {
+public class MyList extends Applet {
 List l;
 public void init() {
 l = new List(5, true);
@@ -12,7 +12,3 @@ l.add("Blue");
 add(l);
 }
 }
-/*
-<applet code="ListDemo" width="300" height="200">
-</applet>
-*/
