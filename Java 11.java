@@ -11,5 +11,5 @@ g.drawArc(130,110,40,20,0,-180);
 }
 
 <html>
-<applet code="Faces.class" width="300" height="300"></applet>
+<applet code="Faces" width="300" height="300"></applet>
 </html>
