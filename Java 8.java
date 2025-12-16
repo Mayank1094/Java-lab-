@@ -22,8 +22,3 @@ s1.display();
 t1.get();
 }
 }
-
-college/
-   Student.java
-   Teacher.java
-BCA.java
